@@ -1,0 +1,14 @@
+{
+  "name": "gf-ts-cte",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "keywords": [],
+  "author": "matheus.garcia",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts"
+}

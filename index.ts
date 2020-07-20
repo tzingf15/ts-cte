@@ -1,0 +1,1 @@
+import { TCTe } from "./src/CTe";
